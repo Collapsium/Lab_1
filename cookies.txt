@@ -1,0 +1,3 @@
+security=low
+PHPSESSID=e6ccaac8143e60ff5c38d069de221df2
+
